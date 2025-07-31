@@ -1,19 +1,12 @@
-# (UPDATE IN README.md) Project Title
+# Instruction Complexity Analyzer
 
-(UPDATE IN README.md)
-Briefly describe the purpose/result(s) of your project, the skills you applied, and the AI4ALL Ignite program.
-
-*EXAMPLE:*
-*Uncovered and meticulously analyzed three distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*
+Designed an AI tool to predict instructional task complexity, aimed at supporting users with executive function challenges in the AI4ALL program accelerator
 
 
 ## Problem Statement <!--- do not change this line -->
 
-(UPDATE IN README.md)
-Describe the motivation for this project, why it is relevant, and what its impacts are.
+Executive functions are the cognitive skills that help us plan, focus, and manage tasks. A significant challenge for individuals with conditions like ADHD or cognitive fog is "task initiation," where gauging the mental energy required for a task can be overwhelming. Not knowing if a set of instructions will be simple or complex can be a major barrier to starting.
 
-*EXAMPLE:*
-*Given the substantial daily output of responses, the identification and mitigation of ChatGPT's biases become critical, safeguarding both the multitude of users and the far-reaching consequences they may influence.*
 
 ## Key Results <!--- do not change this line -->
 
@@ -39,11 +32,7 @@ Enumerate the main results of this project in a list and describe them.
 
 ## Data Sources <!--- do not change this line -->
 
-(UPDATE IN README.md)
-Include any relevant data sources that were used in your project.
-
-*EXAMPLE:*
-*Kaggle Datasets: [Link to Kaggle Dataset](https://www.kaggle.com/datasets)*
+*Kaggle Datasets: [Link to Kaggle Dataset]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/aniketsharma00411/wikihow-raw-data/data))*
 
 ## Technologies Used <!--- do not change this line -->
 
